@@ -35,6 +35,54 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Tokyo",
+      "country": "Japan",
+      "emoji": "🇯🇵",
+      "date": "2028-03-21T10:45:00.000Z",
+      "notes": "Incredible culture and food!",
+      "position": {
+        "lat": 35.682839,
+        "lng": 139.759455
+      },
+      "id": 56382914
+    },
+    {
+      "cityName": "Cape Town",
+      "country": "South Africa",
+      "emoji": "🇿🇦",
+      "date": "2027-09-10T14:30:00.000Z",
+      "notes": "Beautiful landscapes!",
+      "position": {
+        "lat": -33.9248685,
+        "lng": 18.4240553
+      },
+      "id": 83746201
+    },
+    {
+      "cityName": "Sydney",
+      "country": "Australia",
+      "emoji": "🇦🇺",
+      "date": "2028-01-05T11:00:00.000Z",
+      "notes": "Loved the Opera House.",
+      "position": {
+        "lat": -33.8688197,
+        "lng": 151.2092955
+      },
+      "id": 45618237
+    },
+    {
+      "cityName": "New York",
+      "country": "United States",
+      "emoji": "🇺🇸",
+      "date": "2028-06-12T09:00:00.000Z",
+      "notes": "The city that never sleeps!",
+      "position": {
+        "lat": 40.712776,
+        "lng": -74.005974
+      },
+      "id": 76432981
     }
   ]
 }
